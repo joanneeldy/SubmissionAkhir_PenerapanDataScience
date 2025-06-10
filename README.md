@@ -1,5 +1,7 @@
 # Proyek Akhir: Menyelesaikan Permasalahan Perusahaan Edutech
 
+By: Joanne Landy Tantreece - Cohort Laskar AI
+
 ## Business Understanding
 
 **Jaya Jaya Institut** merupakan sebuah institusi pendidikan tinggi fiktif yang telah berdiri sejak tahun 2000. Dengan reputasi yang sangat baik, institut ini telah berhasil mencetak banyak lulusan berkualitas. Namun, di balik kesuksesannya, Jaya Jaya Institut menghadapi sebuah tantangan besar yang dapat memengaruhi reputasi dan keberlanjutan operasionalnya di masa depan.
